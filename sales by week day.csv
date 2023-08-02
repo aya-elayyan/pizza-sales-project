@@ -1,0 +1,8 @@
+dayname(order_date),count(*)
+Thursday,7323
+Friday,8106
+Saturday,7355
+Sunday,5917
+Monday,6369
+Tuesday,6753
+Wednesday,6797
